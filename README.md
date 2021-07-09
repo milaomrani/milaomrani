@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @milaomrani
+- 👀 I’m interested in computer Vision, pattern recognition and using adversrial learning!
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on computer vision challenges! 
+- 📫 How to reach me ...
+
+<!---
+milaomrani/milaomrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
