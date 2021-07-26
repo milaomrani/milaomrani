@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milaomrani
-- 👀 I’m interested in computer Vision, pattern recognition and using adversrial learning!
+- 👀 I’m interested in computer Vision, pattern recognition using adversrial learning!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on computer vision challenges! 
 - 📫 How to reach me ...
