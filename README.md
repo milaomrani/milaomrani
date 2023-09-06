@@ -4,7 +4,7 @@
 
 🔭 **Working On**: Enhancing computer vision techniques and exploring pattern recognition using adversarial learning.
 
-🌱 **Currently Learning**: (Specify the technologies or tools you are learning)
+🌱 **Currently Teaching**: (ML at MCIT)
 
 💼 **Open to Collaborations**: I'm keen to collaborate on challenging computer vision projects. Feel free to reach out!
 
