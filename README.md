@@ -25,8 +25,3 @@ C#           ███▓░░░░░░░░░░░░░░░░░░�
 
 #### 📈 **My GitHub Stats**
 ![Mila's GitHub stats](https://github-readme-stats.vercel.app/api?username=milaomrani&show_icons=true&theme=radical)
-
----
-
-⭐️ From [milaomrani](https://github.com/milaomrani)
-```
