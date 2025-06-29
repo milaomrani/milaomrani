@@ -4,7 +4,7 @@
 
 🔭 **Working On**: Enhancing computer vision techniques and exploring pattern recognition using adversarial learning.
 
-🌱 **Currently ML Developer**: (at Trinnex)
+🌱 **Currently Senior ML Developer**: (at Trinnex)
 
 💼 **Open to Collaborations**: I'm keen to collaborate on challenging computer vision projects. Feel free to reach out!
 
